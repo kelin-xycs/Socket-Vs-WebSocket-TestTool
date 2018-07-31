@@ -1,0 +1,6 @@
+C:\新建文件夹\Projects 3\WebSocketTest\WebSocketTest\bin\Debug\WebSocketTest.exe.config
+C:\新建文件夹\Projects 3\WebSocketTest\WebSocketTest\bin\Debug\WebSocketTest.exe
+C:\新建文件夹\Projects 3\WebSocketTest\WebSocketTest\bin\Debug\WebSocketTest.pdb
+C:\新建文件夹\Projects 3\WebSocketTest\WebSocketTest\obj\Debug\WebSocketTest.csprojResolveAssemblyReference.cache
+C:\新建文件夹\Projects 3\WebSocketTest\WebSocketTest\obj\Debug\WebSocketTest.exe
+C:\新建文件夹\Projects 3\WebSocketTest\WebSocketTest\obj\Debug\WebSocketTest.pdb

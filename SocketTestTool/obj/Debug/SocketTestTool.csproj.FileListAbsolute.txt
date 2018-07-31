@@ -1,0 +1,9 @@
+C:\新建文件夹\Projects 3\WebSocketTest\SocketTestTool\bin\Debug\SocketTestTool.exe.config
+C:\新建文件夹\Projects 3\WebSocketTest\SocketTestTool\bin\Debug\SocketTestTool.exe
+C:\新建文件夹\Projects 3\WebSocketTest\SocketTestTool\bin\Debug\SocketTestTool.pdb
+C:\新建文件夹\Projects 3\WebSocketTest\SocketTestTool\obj\Debug\SocketTestTool.Form1.resources
+C:\新建文件夹\Projects 3\WebSocketTest\SocketTestTool\obj\Debug\SocketTestTool.Properties.Resources.resources
+C:\新建文件夹\Projects 3\WebSocketTest\SocketTestTool\obj\Debug\SocketTestTool.csproj.GenerateResource.Cache
+C:\新建文件夹\Projects 3\WebSocketTest\SocketTestTool\obj\Debug\SocketTestTool.exe
+C:\新建文件夹\Projects 3\WebSocketTest\SocketTestTool\obj\Debug\SocketTestTool.pdb
+C:\新建文件夹\Projects 3\WebSocketTest\SocketTestTool\obj\Debug\SocketTestTool.csprojResolveAssemblyReference.cache
