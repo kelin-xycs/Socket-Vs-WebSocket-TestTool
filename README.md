@@ -49,7 +49,7 @@ async await 有些鸡肋 。 Thread , Monitor , Task , Task.Wait() 可以很好�
 
 
 
-
+从这个项目中 ， 我们再次体会到 ， 测试 是 一个 专业 ， 是 和 开发 不可分割 的 一部分 ， 和 开发 一起组成 软件生产力 。 测试 是 DevOps 的 主干力量 。
 
 
 
